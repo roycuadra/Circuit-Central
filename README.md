@@ -1,2 +1,15 @@
-# Electronic-Shop
-I have created an e-commerce website for selling electronics parts, More features will be added soon to enhance the user experience.
+# Circuit Central
+Circuit Central is a website for selling Electronics parts and kits.
+
+# Features:
+## Admin panel
+- Admin log in
+- Add Items
+- Delete Items
+- Edit Items
+## Client
+- Add to Cart
+- Update Quantity
+- Remove Items
+- Delete All items
+- Checkout
